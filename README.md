@@ -1,5 +1,7 @@
 # Learning Git
 This repo is for programming kids to learn Git!
+Things are getting a little bit more complex...
+But it's ok :)
 
 ## Resources
 - https://www.markdownguide.org/
