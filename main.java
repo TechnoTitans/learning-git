@@ -4,5 +4,8 @@ public class main {
         for (int i = 0; i < 4; i++) {
             System.out.print("Now things are getting fancy...");
         }
+        if (true) {
+            System.out.println("super cool bro");
+        }
     }
 }
