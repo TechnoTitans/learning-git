@@ -6,6 +6,8 @@ public class main {
         }
         if (true) {
             System.out.println("super cool bro");
+        } else {
+            System.out.print("Not cool, not cool");
         }
     }
 }
